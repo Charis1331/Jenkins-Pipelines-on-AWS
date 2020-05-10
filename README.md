@@ -1,5 +1,5 @@
 # Jenkins-Pipelines-on-AWS
-Udacity CloudDevOps Nanodegree - Project 4
+#### This is the fourth project of the Udacity Cloud DevOps Nanodegree program.
 
 # Pipeline
 ![img-1](pipeline.png)
